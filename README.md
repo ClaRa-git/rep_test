@@ -2,4 +2,4 @@
 repository test
 
 # Licence
-Ce propjet n'est pas sous licence
+Ce projet n'est pas sous licence
